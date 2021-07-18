@@ -2,5 +2,5 @@
 //= require tinymce-jquery
 
 tinyMCE.init({
-  selector: 'textarea'
+  selector: 'textarea.tinymce'
 })
